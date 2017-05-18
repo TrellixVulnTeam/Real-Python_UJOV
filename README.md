@@ -1,2 +1,5 @@
 # Real-Python
-Real python curriculum
+Real python curriculum web development course.
+
+Database
+Flask App
