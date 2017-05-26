@@ -1,3 +1,5 @@
+# sets and creates the database
+
 import sqlite3
 from _config import DATABASE_PATH
 
